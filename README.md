@@ -37,11 +37,11 @@ Please refer to the Survey paper(Image Aesthetic Assessment:An Experimental Surv
 Network for Photo Aesthetic Assessment [[pdf](https://arxiv.org/pdf/1704.00248v1.pdf)] 2017
 - Learning Photography Aesthetics with Deep CNNs[[pdf](https://arxiv.org/pdf/1707.03981.pdf)] 2017
 - Semantic Line Detection and Its Applications [[pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lee_Semantic_Line_Detection_ICCV_2017_paper.pdf)] ICCV2017
-- Learning to Understand Image Blur [[pdf](http://users.eecs.northwestern.edu/~xsh835/assets/cvpr2018_smartblur.pdf)]
 - Neural Aesthetic Image Reviewer [[pdf](https://arxiv.org/pdf/1802.10240.pdf)] 2018
 - Food Image Aesthetic Quality Measurement by Distribution Prediction [[pdf](http://cs230.stanford.edu/projects_spring_2018/reports/8290634.pdf)] 2018
 - USAR: an Interactive User-specific Aesthetic Ranking Framework for Images [[pdf](https://arxiv.org/pdf/1805.01091.pdf)] 2018
 - Snap Angle Prediction for 360◦ Panoramas [[pdf](https://arxiv.org/pdf/1804.00126.pdf)] 2018
+- Learning to Understand Image Blur [[pdf](http://users.eecs.northwestern.edu/~xsh835/assets/cvpr2018_smartblur.pdf)] CVPR2018
 - Good View Hunting: Learning Photo Composition from Dense View Pairs [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3063.pdf)] [[project page](http://www.zijunwei.org/VPN_CVPR2018.html)] CVPR2018
 - Attention-based Multi-Patch Aggregation for
 Image Aesthetic Assessment [[pdf](http://chongyangma.com/publications/am/2018_am_paper.pdf)] [[code](https://github.com/Openning07/MPADA)] [[project page](http://chongyangma.com/publications/am/index.html)] 2018
